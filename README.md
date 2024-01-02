@@ -1,6 +1,6 @@
 # Jsp, Servlet
 
-## 개발하면서 궁금한점 기록용
+## Jsp, Servlet 개발하면서 궁금한점 기록용
 
 **JSP - c:url**
 
